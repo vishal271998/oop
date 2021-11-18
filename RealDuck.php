@@ -10,6 +10,7 @@ class RealDuck extends DuckClass implements DuckFlyInterface {
     function fly()
     {
         return "Duck can fly";
+
     }
 }
 
